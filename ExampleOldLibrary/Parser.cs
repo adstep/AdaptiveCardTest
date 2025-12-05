@@ -6,7 +6,7 @@ namespace ExampleOldLibrary;
 using AdaptiveCards.ObjectModel.WinUI3;
 using System;
 
-public partial class Parser
+public sealed class Parser
 {
     public static void Parse()
     {

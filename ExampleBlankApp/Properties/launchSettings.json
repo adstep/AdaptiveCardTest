@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExampleBlankApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ExampleBlankApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
